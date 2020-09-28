@@ -1,0 +1,42 @@
+.Head{
+    display: flex;
+   
+}
+
+.txt{
+
+    margin-left: 38%;
+}
+
+.tab{
+    background-color: thistle;
+    margin-left: 24%;
+}
+
+.first{
+    background-color: tomato;
+}
+
+.second{
+    background-color: violet;
+}
+.third{
+    background-color: salmon;
+}
+.fourth{
+    background-color: lightblue;
+}
+.fifth{
+    background-color: orange;
+}
+
+.cap{
+    font-size: 25px;
+}
+
+.h3t{
+    margin-left: 50%;
+    
+}
+
+
